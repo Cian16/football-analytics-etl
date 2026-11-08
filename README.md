@@ -1,6 +1,6 @@
 # End-to-End Football Analytics ETL Pipeline
 
-**Live Dashboard:** [View on Tableau Public]([(https://public.tableau.com/app/profile/cian.buthello/viz/FootballAnalytics_17941188802980/Dashboard1))]
+**Live Dashboard:** [View on Tableau Public]([(https://public.tableau.com/app/profile/cian.buthello/viz/FootballAnalytics_17941188802980/Dashboard1))
 
 ## Project Overview
 An automated Data Engineering pipeline that generates, extracts, transforms, and loads football match statistics into a local relational database for analytical querying and BI visualization. This project demonstrates core ETL principles, data cleaning, and relational database management.
